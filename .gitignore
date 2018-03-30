@@ -25,7 +25,15 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .bash_sessions
+
+#unrelated
+/Applications
+/Desktop
 /Documents
 /Downloads
-/Desktop
 /Library
+/Movies
+/Music
+/Public
+/Pictures
+/OneDrive
