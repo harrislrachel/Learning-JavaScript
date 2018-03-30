@@ -24,7 +24,7 @@ terraform.tfstate.d
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.bash_sessions
+.bash*
 
 #unrelated
 /Applications
@@ -40,3 +40,5 @@ yarn-error.log*
 /extensions
 /.vscode
 /.npm
+/.ssh
+/.config
