@@ -1,9 +1,3 @@
-# See https://help.github.com/ignore-files/ for more about ignoring files.
-
-# IDE
-.idea
-.vscode
-
 # linting
 .eslintcache
 
@@ -30,3 +24,7 @@ terraform.tfstate.d
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.bash_sessions
+/Documents
+/Downloads
+/Desktop
